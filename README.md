@@ -10,12 +10,22 @@ Built for the **Web Agents Hackathon** by TinyFish.
 
 ---
 
-## Demo
+## 🚀 Demo
 
-<!-- Replace with your demo GIF/video -->
-![Demo](https://via.placeholder.com/800x400?text=Add+Your+Demo+GIF+Here)
+### 🔍 AI-Powered Job Search
+<p align="center">
+  <img src="assets/1.jpg" width="45%" />
+  <img src="assets/2.jpg" width="45%" />
+</p>
 
----
+AI agents run in parallel across multiple job boards, extracting structured job data in real-time.
+
+### ⚡ Live Aggregated Results
+<p align="center">
+  <img src="assets/2.jpg" width="60%" />
+</p>
+
+All job listings are unified into a single view with filtering, sorting, and direct apply links.
 
 ## How TinyFish Web Agent is Used
 
