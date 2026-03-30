@@ -1,7 +1,5 @@
 # 🎯 AI Job Aggregator
 
-**Live Demo:** [Coming Soon - Deploy to Vercel]
-
 ---
 
 ## What is this?
